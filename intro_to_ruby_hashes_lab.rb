@@ -1,3 +1,3 @@
 def bash_hash
-  monopoly = { :railroads => {} }
+  base_hash = { :railroads => {} }
 end 
